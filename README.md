@@ -2,7 +2,7 @@
 
 - A FastAPI application to scrape university course data and save it into text files asynchronously. The project provides endpoints to trigger scraping and to save the data into a structured folder.
 
-# 🚀 Features
+# Features
 
 - Scrape course data from universities asynchronously.
 
@@ -13,3 +13,4 @@
 - Clean project structure separating routes, services, and middleware.
 
 - Handles errors gracefully using FastAPI’s HTTP exceptions.
+
