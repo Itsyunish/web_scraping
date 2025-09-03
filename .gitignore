@@ -1,3 +1,5 @@
 # virtual environment
 .venv/
 
+# folder for storing scraped data
+scraped_file/

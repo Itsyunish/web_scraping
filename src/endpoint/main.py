@@ -35,7 +35,7 @@ folder_name = 'scraped_file'
 async def save_scrape_data():
     
     if os.path.exists(folder_name):
-        return {"message": f"Folder folder_name}' already exists."}
+        return {"message": f"Folder folder_name' already exists."}
 
     try:
         os.makedirs(folder_name, exist_ok=True)
